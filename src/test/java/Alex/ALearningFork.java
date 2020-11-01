@@ -1,4 +1,4 @@
-package Alex.A.Alex;
+package Alex;
 
 public class ALearningFork {
     public static void main(String[] args) {
